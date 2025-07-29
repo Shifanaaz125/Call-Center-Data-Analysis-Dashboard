@@ -13,10 +13,15 @@ Using Power BI, I created an interactive dashboard highlighting key metrics such
 
 
 a)Average Satisfaction Rate: Tracks overall customer satisfaction.
+
 b)Average Speed of Answer: Measures how quickly calls are answered.
+
 c)Average Talk Time: Indicates the average duration of calls.
+
 d)Satisfaction Rating by Agent: Shows individual agent performance.
+
 e)Call Count by Month: Provides a monthly breakdown of call volumes.
+
 f)Resolved Calls by Topic: Breaks down call resolution by categories like contract-related, streaming, and technical support.
 
 
@@ -24,7 +29,9 @@ f)Resolved Calls by Topic: Breaks down call resolution by categories like contra
 
 
 a)Agent Performance: Jim has the highest number of answered calls and satisfaction ratings, indicating strong performance.
+
 b)Call Resolution: Streaming and technical support are the most common issues resolved.
+
 c)Monthly Trends: Call volumes remain stable with minor fluctuations.
 
 
@@ -32,7 +39,9 @@ c)Monthly Trends: Call volumes remain stable with minor fluctuations.
 
 
 a)Training: Provide additional training for agents with lower satisfaction ratings.
+
 b)Resource Allocation: Ensure adequate staffing during peak call times.
+
 c)Process Improvement: Streamline processes for common issues to reduce talk time.
 
 
